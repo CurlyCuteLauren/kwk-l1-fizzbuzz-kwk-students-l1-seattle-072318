@@ -5,10 +5,9 @@ def fizzbuzz(int= 3)
      "Fizz"
   elsif (int % 5 == 0)
       "Buzz"
-else 
-   "NIL"
   end
 end
+
 puts fizzbuzz(int= 3)
 
 
