@@ -9,5 +9,3 @@ def fizzbuzz(int= 3)
 end
 
 puts fizzbuzz(int= 3)
-
-
